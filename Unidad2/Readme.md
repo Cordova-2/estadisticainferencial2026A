@@ -1,1 +1,1 @@
-Soy principiante en ciencia de datos. También intenté extraer datos de casas en Toluca (México) usando BeautifulSoup. Espero que puedan practicar con este conjunto de datos. Agradecería sus comentarios. Gracias.
+
