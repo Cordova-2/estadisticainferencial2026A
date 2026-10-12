@@ -1,8 +1,8 @@
-#Descripcióndelabasededatos`Casa_toluca.csv`
+Descripcióndelabasededatos`Casa_toluca.csv`
 
 Labasededatos`Casa_toluca.csv`contieneinformaciónsobrecasasenventaenToluca,EstadodeMéxico.Incluyedatossobrelaubicacióndelaspropiedades,elárea,lacantidaddebaños,elnúmerodehabitacionesyelpreciodeventa.Estainformaciónpermiterealizarunanálisisexploratoriodedatosparaidentificarcaracterísticasdelasviviendasyestudiarlosfactoresquepuedeninfluirensuprecio.
 
-##1.Característicasgenerales
+1.Característicasgenerales
 
 |Característica|Descripción|
 |--------------------|------------------------|
@@ -14,7 +14,7 @@ Labasededatos`Casa_toluca.csv`contieneinformaciónsobrecasasenventaenToluca,Esta
 |Variabledeinterés|Precio|
 |Tipodedatos|Numéricosycategóricos|
 
-##2.Descripcióndelasvariables
+2.Descripcióndelasvariables
 
 |Variable|Tipodedato|Descripción|
 |--------------|------------------|-----------------------------------------------------------------------------------------------|
@@ -27,7 +27,7 @@ Labasededatos`Casa_toluca.csv`contieneinformaciónsobrecasasenventaenToluca,Esta
 |`Habitaciones`|Numéricadecimal|Indicaelnúmerodehabitacionesdelavivienda.|
 |`Precio`|Numéricadecimal|Representaelpreciodeventadelapropiedad.|
 
-##3.Valoresfaltantes
+3.Valoresfaltantes
 
 Durantelarevisiónseidentificaronvaloresfaltantesencuatrovariables:
 
@@ -41,13 +41,13 @@ Durantelarevisiónseidentificaronvaloresfaltantesencuatrovariables:
 
 Losvaloresfaltantesdebenconsiderarseantesderealizarelanálisisestadísticooconstruirunmodelopredictivo.Además,convienerevisarlastrescolumnasdeíndices,yaqueposiblementepuedaneliminarsesinocontieneninformaciónútilparaelanálisis.
 
-##4.Variablesprincipalesparaelanálisis
+4.Variablesprincipalesparaelanálisis
 
 -Variabledependiente:`Precio`,porquepuedeutilizarsecomoresultadoquesebuscaexplicaropredecir.
 -Variablesindependientes:`Area`,`Baños`y`Habitaciones`,yaquepodríanayudaraexplicarlasdiferenciasenlospreciosdelasviviendas.
 -Variablecategórica:`Ubicación`,quepermiteanalizarlasdiferenciasentrezonasodirecciones.
 
-##5.Observacionesiniciales
+5.Observacionesiniciales
 
 Labasededatoscontiene2,004registrosy1,274ubicacionesdistintas.Tambiénpresentadiferenciasimportantesentrelospreciosdelaspropiedades,porloqueseríaconvenienterevisarposiblesvaloresatípicosyverificarquelosdatosseancorrectos.Porejemplo,seobservaunpreciomáximode10,000,000yunmínimoaproximadode10,653.05;estosvaloresdebenrevisarseparadeterminarsicorrespondenapropiedadesrealesoaposibleserroresdecaptura.
 
