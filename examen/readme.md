@@ -1,34 +1,43 @@
+# Conjunto de datos para la predicción de la diabetes
 
-# Diabetes Prediction Dataset
+## Descripción
 
-## Description
+El **Conjunto de datos para la predicción de la diabetes** es una recopilación de datos médicos y demográficos de pacientes, junto con su estado de diabetes (**positivo o negativo**).
 
-The **Diabetes Prediction Dataset** is a collection of medical and demographic data from patients, along with their diabetes status (**positive or negative**).
+### Características del conjunto de datos
 
-### Dataset Features
+El conjunto de datos incluye las siguientes características:
 
-The dataset includes the following features:
+- **Edad:** Edad del paciente.
 
-- **Age:** Patient's age.
-- **Gender:** Patient's gender.
-- **BMI:** Body Mass Index.
-- **Hypertension:** History of high blood pressure.
-- **Heart Disease:** History of heart disease.
-- **Smoking History:** Patient's smoking habits.
-- **HbA1c Level:** Average blood glucose levels over the past 2–3 months.
-- **Blood Glucose Level:** Patient's blood glucose concentration.
+- **Género:** Género del paciente.
 
-## Objective
+- **IMC:** Índice de masa corporal.
 
-The main objective of this dataset is to build **Machine Learning models** to predict diabetes in patients based on their medical history and demographic information.
+- **Hipertensión:** Antecedentes de presión arterial alta.
 
-## Applications
+- **Enfermedad cardíaca:** Antecedentes de enfermedad cardíaca.
 
-1. **Diabetes Prediction:** Identify patients who may be at risk of developing diabetes.
-2. **Healthcare Support:** Assist healthcare professionals in developing personalized treatment plans.
-3. **Medical Research:** Explore relationships between medical and demographic factors and diabetes.
-4. **Data Analysis:** Identify patterns and trends associated with diabetes risk.
+- **Historial de tabaquismo:** Hábitos de tabaquismo del paciente.
 
-## Conclusion
+- **Nivel de HbA1c:** Niveles promedio de glucosa en sangre durante los últimos 2-3 meses.
 
-This dataset provides valuable information for developing predictive models using **Machine Learning**, supporting diabetes risk assessment and medical research.
+- **Nivel de glucosa en sangre:** Concentración de glucosa en sangre del paciente.
+
+## Objetivo
+
+El objetivo principal de este conjunto de datos es construir **modelos de aprendizaje automático** para predecir la diabetes en pacientes basándose en su historial médico e información demográfica.
+
+## Aplicaciones
+
+1. **Predicción de la diabetes:** Identificar pacientes con riesgo de desarrollar diabetes.
+
+2. **Apoyo a la atención médica:** Ayudar a los profesionales de la salud a desarrollar planes de tratamiento personalizados.
+
+3. **Investigación médica:** Explorar la relación entre factores médicos y demográficos y la diabetes.
+
+4. **Análisis de datos:** Identificar patrones y tendencias asociados al riesgo de diabetes.
+
+## Conclusión
+
+Este conjunto de datos proporciona información valiosa para el desarrollo de modelos predictivos mediante **aprendizaje automático**, lo que facilita la evaluación del riesgo de diabetes y la investigación médica.
